@@ -1,0 +1,5 @@
+Youtube video: I used LLaMA 2 70B to rebuild GPT Banker...and its AMAZING (LLM RAG)  [Nicholas Renotte]
+https://www.youtube.com/watch?v=SedGB8m2XLM
+
+
+https://github.com/nicknochnack/Llama2RAG
